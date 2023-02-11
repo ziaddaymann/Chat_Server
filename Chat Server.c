@@ -18,7 +18,6 @@
 
 int main()
 {
-    /* define variables here */
     const char *port = "65001";                    /* same port as the client */
     const int clientname_size = 32;                /* store client's IPv4 address */
     char clientname[clientname_size];
